@@ -1,22 +1,21 @@
-{
-  "posts": [
+ [
     {
       "id": 1,
       "Name": "Chandradev"
     },
     {
       "id": 2,
-      "Name": "Chandradev"
+      "Name": "Ram"
     },
     {
       "id": 3,
-      "Name": "Chandradev"
+      "Name": "Mohan"
     },
     {
       "id": 4,
-      "Name": "Chandradev"
+      "Name": "John"
     }
     
   ]
  
-}
+
