@@ -1,21 +1,22 @@
- [
+{
+  "posts": [
     {
       "id": 1,
-      "Name": "Chandradev"
+      "Name": "Chandradev1"
     },
-    {
+{
       "id": 2,
-      "Name": "Ram"
+      "Name": "Chandradev2"
     },
-    {
+{
       "id": 3,
-      "Name": "Mohan"
-    },
-    {
+      "Name": "Chandradev3"
+    },{
       "id": 4,
-      "Name": "John"
+      "Name": "Chandradev4"
     }
-    
-  ]
- 
-
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
